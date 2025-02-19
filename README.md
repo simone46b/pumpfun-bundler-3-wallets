@@ -1,4 +1,4 @@
-# PumpFunSDK README
+# Pumfun bundler 3 wallets
 
 ## Overview
 
